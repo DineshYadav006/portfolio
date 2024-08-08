@@ -91,47 +91,102 @@ export const skills = [
 export const project = [
   {
     id: 0,
-    title: "Trackify",
+    title: "BALATTO",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Balatto specially designed for Car Rental Services websites, we can rent out the car for hourly basis",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: ["Docker", "AWS", "DuckDNS", "Eslint", "Express Js"],
+      "https://raw.githubusercontent.com/DineshYadav006/thumbnails/main/BALATTO.webp?token=GHSAT0AAAAAACV27TATOEAEH2J5IEZBQZZUZVURRIA",
+    tags: ["HTML", "CSS"],
     category: "Development",
-    link: "https://www.amazon.com/",
+    link: "https://balatto.netlify.app/",
   },
   {
     id: 1,
-    title: "Trackify",
+    title: "SNITCH",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Snitch offers a wide range of shirts for men, from plain to patterned, from casual to formal. Browse through 1000+ shirting options and find your perfect fit and style.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: ["Docker", "AWS", "DuckDNS", "Eslint", "Express Js"],
+      "https://raw.githubusercontent.com/DineshYadav006/thumbnails/main/SNITCH.webp?token=GHSAT0AAAAAACV27TATBM75EXSEVOP2W7BCZVURS5Q",
+    tags: ["HTML", "CSS", "BOOTSTRAP"],
     category: "Development",
-    link: "https://www.amazon.com/",
+    link: "https://snitchtemplate.netlify.app/",
   },
   {
     id: 2,
-    title: "Trackify",
+    title: "PREMIUM BAGS",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Stylish Bags for Women Online in India. We have wide collections of laptop bags, backpacks, Tote Bags, shoulder bags, sling bags, wallets, clutches, and more.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: ["Docker", "AWS", "DuckDNS", "Eslint", "Express Js"],
+      "https://raw.githubusercontent.com/DineshYadav006/thumbnails/main/BAGS.webp?token=GHSAT0AAAAAACV27TASUNYLLRADD2Q3RTX2ZVURQTA",
+    tags: ["HTML", "CSS", "BOOTSTRAP"],
     category: "Development",
-    link: "https://www.amazon.com/",
+    link: "https://premiumhandbags.netlify.app/",
   },
   {
     id: 3,
-    title: "Podstream",
+    title: "TECH MAHINDRA",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Tech Mahindra SMART Academy offers various courses in healthcare, digital technologies and logistics at its Hyderabad center. Learn from industry experts, get placement support.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+      "https://raw.githubusercontent.com/DineshYadav006/thumbnails/main/TECH.webp?token=GHSAT0AAAAAACV27TASWTJ2ZUJNA3ATIOBAZVURTMQ",
+    tags: ["HTML", "CSS"],
+    category: "Development",
+    link: "https://techmahindrasmartacademy.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "ROOFTOP SERVICES",
+    description:
+      "Diatap is specially designed for roofing services website. We can take rooftop services through online",
+    image:
+      "https://raw.githubusercontent.com/DineshYadav006/thumbnails/main/ROOFTOP.webp?token=GHSAT0AAAAAACV27TASNT6BUC6T6SON64JUZVURSSA",
+    tags: ["HTML", "CSS"],
+    category: "Development",
+    link: "https://rooftopstyle.netlify.app/",
+  },
+  {
+    id: 5,
+    title: "IPL",
+    description:
+      "The Indian Premier League (IPL), also known as the TATA IPL for sponsorship reasons, is a men's Twenty20 (T20) cricket league held annually in India.",
+    image:
+      "https://raw.githubusercontent.com/DineshYadav006/thumbnails/main/IPL.webp?token=GHSAT0AAAAAACV27TAT2BXQFWKVY2VEJPWQZVURSFQ",
+    tags: ["HTML", "CSS"],
+    category: "Development",
+    link: "https://ipltemplate.netlify.app/",
+  },
+  {
+    id: 6,
+    title: "GROCERY MART",
+    description:
+      "Shop online for groceries and get your order delivered at your doorstep in minutes. Enjoy instant delivery",
+    image:
+      "https://raw.githubusercontent.com/DineshYadav006/thumbnails/main/GROCERY.webp?token=GHSAT0AAAAAACV27TAT35F3N5BMNZF3RND2ZVURRWQ",
+    tags: ["HTML", "CSS"],
+    category: "Development",
+    link: "https://grocerymenu.netlify.app/",
+  },
+  {
+    id: 7,
+    title: "LENSKART",
+    description:
+      "Lenskart offers a wide range of eyeglasses, sunglasses, contact lenses and frames online. Shop from innovative collections",
+    image:
+      "https://raw.githubusercontent.com/DineshYadav006/thumbnails/main/lenskart%20mockup%20raw.webp?token=GHSAT0AAAAAACV27TASRX7DH776XP7FFDHUZVURTZA",
+    tags: ["Adobe XD", "Adobe Illustrator"],
     category: "UI/UX Designs",
-    link: "https://www.flipkart.com/",
+    link: "https://xd.adobe.com/view/03c13aa6-4ea3-4bb7-9cc7-3cb83ddcad8a-5692/",
+  },
+  {
+    id: 8,
+    title: "PIPE PRO",
+    description:
+      "Shop online for pipes and get your order delivered at your doorstep in minutes.",
+    image:
+      "https://raw.githubusercontent.com/DineshYadav006/thumbnails/main/pipepro%20raw.webp?token=GHSAT0AAAAAACV27TATWSMWFNL6PDAHUKCYZVURUGQ",
+    tags: ["Adobe XD", "Adobe Illustrator"],
+    category: "UI/UX Designs",
+    link: "https://xd.adobe.com/view/f27434a5-c80d-4280-b1a3-287b63764d4d-a727/",
   },
 ];
 
