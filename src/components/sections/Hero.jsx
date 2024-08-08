@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Bio } from "../../data/constants";
 import Typewriter from "typewriter-effect";
-import img from "../../images/portfolio.png";
+import img from "../../images/portfolio.webp";
 import { Tilt } from "react-tilt";
 
 const HeroContainer = styled.div`
