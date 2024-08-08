@@ -73,18 +73,6 @@ const TimelineSection = styled.div`
   }
 `;
 
-const Document = styled.img`
-  display: none;
-  height: 70px;
-  width: fit-content;
-  background-color: #000;
-  border-radius: 10px;
-  &:hover {
-    cursor: pointer;
-    opacity: 0.8;
-  }
-`;
-
 const Description = styled.div`
   width: 100%;
   font-size: 15px;
